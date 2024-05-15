@@ -22,7 +22,7 @@ Simply start the script you like to use as following:
 
 For Object Detection:
 ```
-python3 object_recognition.py
+python3 object_detection.py
 ```
 
 For Face Recognition:
